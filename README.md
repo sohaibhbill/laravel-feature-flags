@@ -902,7 +902,7 @@ The test suite uses Orchestra Testbench and covers all features: facade, middlew
 
 ## License
 
-MIT License. See [LICENSE](LICENSE) for details.
+MIT License.
 
 ---
 
